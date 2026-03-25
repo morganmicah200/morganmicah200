@@ -17,7 +17,7 @@ Data engineer based in Conway, Arkansas. I build end-to-end data pipelines — f
 Async ETL pipeline extracting 1M+ movies from the TMDB API → AWS S3 medallion architecture → Snowflake → dbt star schema, orchestrated daily by a containerized Airflow DAG.  
 `Python` `AWS S3` `Snowflake` `dbt` `Airflow` `Docker` `aiohttp` `asyncio`
 
-**[Medicare Analytics Pipeline](https://github.com/morganmicah200/medicare-pipeline)**  
+**[Medicare Analytics Pipeline](https://github.com/morganmicah200/medicare-analytics)**  
 9.66M row CMS Medicare claims pipeline into PostgreSQL with a Kimball star schema, dbt modeling, and Power BI dashboard revealing state-level reimbursement insights.  
 `Python` `PostgreSQL` `dbt` `Power BI` `pandas`
 
