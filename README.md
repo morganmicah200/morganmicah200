@@ -24,3 +24,11 @@ Async ETL pipeline extracting 1M+ movies from the TMDB API → AWS S3 medallion 
 **[S&P 500 Market Analytics](https://github.com/morganmicah200/sp500-analytics)**  
 ETL pipeline pulling S&P 500 and Federal Reserve data into MySQL, with moving averages, rolling volatility, and Pearson correlation analysis.  
 `Python` `MySQL` `SQLAlchemy` `pandas`
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-micahmorgan--da-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/micahmorgan-da/)
+[![GitHub](https://img.shields.io/badge/GitHub-morganmicah200-181717?style=flat&logo=github)](https://github.com/morganmicah200)
+📧 micahmorgan212@gmail.com
