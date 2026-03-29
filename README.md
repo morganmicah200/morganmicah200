@@ -34,7 +34,7 @@ Aspiring data engineer based in Conway, Arkansas. I build end-to-end data pipeli
 
 ---
 
-## 🚀 Projects
+## 🚀 Personal Projects
 
 **[TMDB Movie Data Pipeline](https://github.com/morganmicah200/tmdb-pipeline)**  
 Async ETL pipeline extracting 1M+ movies from the TMDB API → AWS S3 medallion architecture → Snowflake → dbt star schema, orchestrated daily by a containerized Airflow DAG.  
