@@ -2,6 +2,7 @@
 
 Aspiring data engineer based in Conway, Arkansas. I build end-to-end data pipelines — from raw API ingestion to cloud warehousing to dimensional modeling. Currently seeking my first full-time data engineering or analyst role.
 
+
 ## 🔧 What I Work With
 
 **Languages:**
