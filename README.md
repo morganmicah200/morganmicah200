@@ -5,7 +5,7 @@ Aspiring data engineer based in Conway, Arkansas. I build end-to-end data pipeli
 
 ## 🔧 What I Work With
 
-**Languages:**
+**Languages I use:**
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
