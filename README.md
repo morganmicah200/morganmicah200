@@ -1,7 +1,7 @@
 # Hey, I'm Micah Morgan 👋
 
 Aspiring data engineer based in Conway, Arkansas. I build end-to-end data pipelines — from raw API ingestion to cloud warehousing to dimensional modeling. Currently seeking my first full-time data engineering or analyst role.
-### 🔗 View My Portfolio:
+### 🔗 View My Portfolio here:
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-6366f1?style=for-the-badge)](https://morganmicah200.github.io/)
